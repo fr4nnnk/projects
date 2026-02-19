@@ -1,5 +1,3 @@
-
-
 print("hello")
 
 def sum(a, b):
